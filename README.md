@@ -1,2 +1,2 @@
 # Go-Lang
-All Go Codes
+This repository contains all of my Go projects

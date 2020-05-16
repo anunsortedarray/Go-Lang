@@ -1,5 +1,4 @@
 // My first Go Program :)
-// Have fun
 package main
 
 import "fmt"

@@ -1,3 +1,4 @@
+// My first Go Program :)
 package main
 
 import "fmt"

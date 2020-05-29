@@ -6,7 +6,7 @@ var x int
 var y string
 var z bool
 
-func main() {
+func hello() {
 	// x = 42
 	// y = "James Bond"
 	// z = true

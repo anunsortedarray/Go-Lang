@@ -1,2 +1,2 @@
 # Go-Lang
-This repository contains all of my Go projects
+This repository contains all of my random Go projects
